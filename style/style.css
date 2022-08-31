@@ -1,0 +1,28 @@
+/* HEADER */
+
+div {
+  background-color: chartreuse;
+  width: 100px;
+  height: 100px;
+}
+#pippo {
+  /* elemento con id=pippo */
+  width: 200px;
+  eight: 200px;
+}
+
+.card_titolo {
+  /* background-color: #d2ffff; esadecimale*/
+  background-color: rgb(0 0 0 / 50%);
+  color: beige;
+  width: 500px;
+  eight: 200;
+}
+
+.card--rosa {
+  background-color: pink;
+}
+
+/* MAIN */
+
+/* FOOTER */
