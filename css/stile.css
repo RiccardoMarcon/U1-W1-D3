@@ -1,0 +1,32 @@
+/* IMPOSTAZIONI GENERALI */
+
+header {
+  background-color: #489ec2;
+  width: 500px;
+  height: 100px;
+  border-bottom: 3px solid black;
+}
+
+.px_max {
+  width: 500px;
+}
+
+/* HEADER */
+.c_titolo {
+  color: #d4e7ed;
+  width: 500px;
+  height: 30px;
+  text-align: center;
+}
+.titolo--blu {
+  color: #03282a;
+  height: 30px;
+  text-align: center;
+  background-color: #fafffb;
+}
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN */
+
+/* FOOTER */
